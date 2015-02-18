@@ -1,0 +1,21 @@
+# This file contains metadata for your plugin. Beginning
+# with version 1.8 this is the preferred way to supply information about a
+# plugin. The current method of embedding metadata in __init__.py will
+# be supported until version 2.0
+
+# This file should be included when you package your plugin.
+
+[general]
+name=GPKG
+description=Export current display as a GeoPackage
+about=Export current display as a GeoPackage
+repository=https://github.com/normanb/qgis_browse
+tracker=https://github.com/normanb/qgis_browse/issues
+category=Web
+version=0.0.1
+qgisMinimumVersion=2.0
+experimental=False
+class_name=GPKG
+website=https://www.cloudant.com
+author=Norman Barker
+email=norman@cloudant.com
